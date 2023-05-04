@@ -113,5 +113,5 @@ function optionChanged(value) {
     buildBubbleChart(value);
 };
 
-// Call the initialize function
+
 init();
